@@ -13,7 +13,7 @@
 
 ## Usage    
 
-[Heroku Deployed Application]()
+[Heroku Deployed Application](https://grrhigrr-budgettracker.herokuapp.com/)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
